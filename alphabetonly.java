@@ -14,8 +14,10 @@ public class alphabetonly {
             if(arr[i] >= 'a' && arr[i] <= 'z' || arr[i] >= 'A' && arr[i] <= 'Z')
             {
                 System.out.print(arr[i]);
+                
             }
         }
-
+             System.out.println("program end ");
     }
+   
 }
